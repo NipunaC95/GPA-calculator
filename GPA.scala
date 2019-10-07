@@ -24,6 +24,7 @@ object GPA{
             case "C+" => return 2.30;
             case "C"  => return 2.00; 
             case "C-" => return 1.30; 
+            case "F" => return 1.00;
         }
     }
 
